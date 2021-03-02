@@ -1,0 +1,58 @@
+body
+{
+         text-align:center;
+         background:linear-gradient(45deg,pink,red,green);
+}
+#link a
+{
+	background:linear-gradient(45deg,blue,pink,green);
+	padding:30px;
+	margin:auto;
+	margin-right:20px;
+	display:inline-block;
+	box-shadow:0 0 10px black;
+	border-radius:20px;
+	text-decoration:none;
+	font-family:"comic sans ms";
+}
+html
+{
+	scroll-behavior:smooth;
+}
+p
+{
+	text-align:justify;
+	text-indent:10px;
+	text-transform:capitalize;
+	font-size:30px;
+	font-family:"monospace";
+	font-weight:bold;
+}
+h2
+{
+	border-radius:200px 200px 0px 0px;
+	box-shadow:0 0 10px blue;
+	background:linear-gradient(45deg,orange,white,green);
+	color:blue;
+	padding:20px;
+}
+td
+{
+	padding:30px;
+	margin:40px;
+	width:70%;
+	border-radius:60px;
+}
+a:hover
+{
+	color:white;
+}
+div a
+{
+	position:sticky;
+}
+#link
+{
+	position:sticky;
+	top:10px;
+}
